@@ -30,7 +30,6 @@ Use the trained model (model.pkl) for predictions.
 <img width="1378" height="713" alt="Screenshot 2025-08-20 225632" src="https://github.com/user-attachments/assets/aec05bfe-d630-4e11-8a5f-64da6bee1a6a" />
 
 
-
 <img width="1096" height="711" alt="Screenshot 2025-08-20 225740" src="https://github.com/user-attachments/assets/9edbb32c-ce0a-417e-82d7-f2c0b500171c" />
 
 This repo is a simple but complete example of applying Machine Learning for behavioral analysis. Perfect for beginners learning Decision Trees, model saving/loading, and real-world dataset handling.
